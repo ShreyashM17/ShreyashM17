@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShreyashM17
-- 👀 I’m interested in quantum physics and machine learning
+- 👀 I’m interested in quantum physics, web development, designing and machine learning
 - 🌱 I’m currently learning mechanical engineering
 
 <!---
