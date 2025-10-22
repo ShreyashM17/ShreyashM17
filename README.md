@@ -14,7 +14,7 @@ I bridge the gap between **back-end engineering, modern web frameworks, and AI e
 - [**Jarvis**](https://github.com/ShreyashM17/Jarvis) – A Python-based voice assistant with search & utility features.  
 - [**Covid-Vaccine Slot Finder**](https://github.com/ShreyashM17/covid-vaccine-slot-finder) – Real-time vaccine slot notifier using CoWIN API.  
 - [**justchat**](https://github.com/ShreyashM17/justchat) – Topic-based chat app built with PHP.  
-- [**Voice-Activated Calculator**](https://github.com/ShreyashM17/Voice-activated-calculator): Calculator powered by voice input/output.
+- [**Jarvis using quantum computer**](https://github.com/ShreyashM17/quantumai): Training llm on quantum computer.
 
 ---
 
