@@ -42,7 +42,7 @@ I bridge the gap between **back-end engineering, databases, modern web framework
 ## 📫 Connect with Me
 - GitHub: [@ShreyashM17](https://github.com/ShreyashM17)  
 - LinkedIn: [shreyash-mogaveera](www.linkedin.com/in/shreyash-mogaveera)
-- Portfolio: [https://shreyash.pythonanywhere.com/](https://shreyashmogaveera.dev/)
+- Portfolio: [https://shreyashmogaveera.dev/](https://shreyashmogaveera.dev/)
 
 ---
 
