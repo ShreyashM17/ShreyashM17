@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shreyash Mogaveera
 
-💻 I’m a **Web Developer** passionate about creating scalable, fast, and user-friendly applications.  
+💻 I’m a **Developer** passionate about creating scalable, fast, and user-friendly applications.  
 I bridge the gap between **back-end engineering, databases, modern web frameworks, and AI experimentation**.
 
 🎓 Completed **Mechanical Engineering**, now working full-time in tech.  
@@ -21,11 +21,11 @@ I bridge the gap between **back-end engineering, databases, modern web framework
 ## 🛠️ Tech Stack
 
 **💼 Professional Work**  
-- **Frameworks & Tools:** Jekyll, Astro, Webflow, HubSpot  
+- **Frameworks & Tools:** Angular, Python, Jekyll, Astro, Webflow, HubSpot  
 - **Web Basics:** HTML5, CSS3, JavaScript  
 
 **⚙️ Development & Research**
-- **Frontend:** React, Bootstrap5, Tailwind  
+- **Frontend:** React, Bootstrap5, Tailwind, Nextjs 
 - **Backend & APIs:** Django, Express, REST APIs  
 - **Programming:** Python, Rust, JavaScript, PHP
 - **AI/ML:** PyTorch, Scikit-learn (experimentation)  
